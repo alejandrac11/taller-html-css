@@ -1,0 +1,33 @@
+h1 {
+	color: yellow;
+}
+h2{
+	color: #E3C333;
+	font: oblique bold 120% cursive; 
+}
+body{
+	background-image: url("deathstar.jpg"); 
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+p{
+	color: white;
+	font-size: 30px;
+	font-weight: bold;
+	font-family: arial;
+}
+img{
+	width: 250px;
+}
+/*#BabyYoda{
+	height: 300px;
+	Para personalizar una foto en especifico 
+} */ 
+a{
+	color: #33E3BB;
+	font-size: 30px;
+	font-weight: bold;
+	font-family: arial;
+}
+
+

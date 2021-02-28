@@ -1,0 +1,27 @@
+h1{
+	color: #E3C333;
+	font: oblique bold 120% cursive;
+	font-size: 40px;
+	text-align: center;
+}
+
+body{
+	background-image: url("starswallpaper.jpg"); 
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.Episodios{
+	height: 450px;
+}
+a{
+	color: #33E3BB;
+	font-size: 30px;
+	font-weight: bold;
+	font-family: arial;
+}
+a{
+	color: #33E3BB;
+	font-size: 30px;
+	font-weight: bold;
+	font-family: arial;
+}
